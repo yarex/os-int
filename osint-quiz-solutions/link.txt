@@ -1,0 +1,2 @@
+OSINT puzzles from Hotelrooms and other strange places
+* https://github.com/seintpl/osintquiz
